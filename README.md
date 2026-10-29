@@ -1,4 +1,5 @@
 # 🧁 Le Goût du Délice – Pastry Shop Website
+🔗 Static demo (front-end only, the contact form needs PHP/MySQL): https://michelgalaxyone.github.io/patisserie-site/
 
 A responsive pastry shop website built with HTML, CSS, JavaScript, PHP and MySQL. It presents the shop, its pastry categories and signature products, and lets visitors send a message through a contact form stored in a database.
 
