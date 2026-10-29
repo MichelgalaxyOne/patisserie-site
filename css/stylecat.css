@@ -1,0 +1,33 @@
+img{
+    height: 350px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.body{
+    background-color: black;
+}
+
+/* .container{
+    width: 200px;
+    height: 350px;
+    position: relative;
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
+    animation: gallary 20s linear infinite;
+    cursor: pointer;
+} */
+
+div .img{
+    object-fit: cover ;
+    transition: all ease-in-out 0.5s;
+    filter: saturate(0%);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+div .img:hover{
+    filter: saturate(100%);
+    width: 18%;
+    border: 1px solid #1498d4;
+    border-radius: 5px;
+}
